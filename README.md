@@ -1,5 +1,7 @@
 # Headless UI SSR experiment
 
+![screely-1677573795091](https://user-images.githubusercontent.com/2470775/221799882-6e277b63-a5e9-4456-8261-9e29d209169a.png)
+
 **How to run:**
 
 1. Install dependencies: `yarn install`.
